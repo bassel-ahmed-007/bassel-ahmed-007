@@ -1,46 +1,58 @@
-# 👋 Hi, I'm Bassel Ahmed  
+<h1 align="center">👋 Hi, I'm Bassel Ahmed<br>Frontend Developer | React.js & Next.js</h1>
 
-🚀 Frontend Developer | React.js & Next.js  
-💻 Passionate about building responsive, user-friendly web apps  
-🌱 Currently learning **Node.js**  
+###
 
----
+<h2 align="left">👨‍💻 About Me</h2>
 
-### 👨‍💻 About Me
-- 🔭 I’m currently working on a **hotel management CRM**  
-- 🌱 Exploring **backend with Node.js & Next.js**  
-- 🎯 Goal: Become financially free through freelancing & projects  
-- ⚡ Fun fact: I prefer grids over flexbox 😅  
+###
 
----
+<p align="left">🔭 I’m currently working on a hotel management CRM<br><br>🌱 Exploring backend with Node.js & Next.js<br><br>🎯 Goal: Become financially free through freelancing & projects<br><br>⚡ Fun fact: I prefer grids over flexbox 😅</p>
 
-### 🛠 Tech Stack  
-- 💻 Frontend:  
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
-  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+###
 
-- ⚙️ Tools & Frameworks:  
-  ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)  
-  ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)  
+<h2 align="left">🛠 SKILLS:</h2>
 
-- 🛠 Others: Git, Node.js, REST APIs  
+###
 
----
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="60" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="60" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="60" alt="jest logo"  />
+</div>
 
-### 📊 GitHub Stats  
-![Bassel's GitHub stats](https://github-readme-stats.vercel.app/api?username=basselahmed&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basselahmed&layout=compact&theme=radical)  
+###
 
----
+<h2 align="left">🤝 Connect With Me</h2>
 
-### 🌟 Featured Projects  
-- [🏥 Clinic Management Web App](https://github.com/your-repo-link) – Manage patients, appointments & reports  
-- [⚽ Rally Sports Dashboard](https://github.com/your-repo-link) – Manage events, matches, and volunteers  
+###
 
----
+<div align="center">
+  <a href="https://www.linkedin.com/in/bassel-ahmed-942105264" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="36" alt="linkedin logo"  />
+  </a>
+  <a href="basselahmed007@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="36" alt="gmail logo"  />
+  </a>
+</div>
 
-### 🤝 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link/)  
-[![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~your-id)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)  
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bassel-ahmed-007/bassel-ahmed-007/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bassel-ahmed-007/bassel-ahmed-007/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bassel-ahmed-007/bassel-ahmed-007/output/pacman-contribution-graph.svg">
+</picture>
+
+###
